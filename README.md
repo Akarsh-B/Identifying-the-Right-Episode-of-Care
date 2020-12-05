@@ -15,3 +15,5 @@ The goal here is to analyze the correct episode of care followed by the provider
     * live-server
 
 4. This should automatically open up a browser with the localhost server created, or manually open the browser and open localhost:{port_number_specified}
+
+## Visualization available at : https://identifying-episode-of-care.herokuapp.com
